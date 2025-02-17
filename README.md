@@ -1,13 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
+<！doctype html>
+<超文本标记语言朗="en">
 
-<head>
-    <meta charset="UTF-8">
-    <title>Question</title>
-</head>
+<头>
+<元字符集="UTF-8">
+<标题>问题</标题>
+</头>
 
-<body>
+<身体>
     <p>能和我一起看星星吗？</p>
-</body>
+</身体>
 
-</html>
+</超文本标记语言>
